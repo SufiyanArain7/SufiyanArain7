@@ -67,8 +67,8 @@ Hey, I'm Sufiyan, a Web Developer 🚀, Both Front and Back End Developer.
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Aestradev&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SufiyanDev&show_icons=false&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanDev&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SufiyanArain7&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SufiyanArain7&show_icons=false&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanArain7&theme=tokyonight&hide=batchfile">
 
 
 
